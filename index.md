@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Website
 ---
 
 Welcome to my personal site and blog!
